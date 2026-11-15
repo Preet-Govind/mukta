@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build
+build/
+dist/
+*.spec
+
+# mukta Specific
+*.mukta
+credentials.json
+token.pickle
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp

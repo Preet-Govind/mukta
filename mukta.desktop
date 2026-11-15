@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Mukta
+Comment=Infinite Canvas Note-taking App
+Exec=/shared_dir/Projects/Mukta/dist/mukta
+Icon=accessories-text-editor
+Terminal=false
+Type=Application
+Categories=Office;Education;
+Keywords=notes;canvas;whiteboard;pdf;
