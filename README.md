@@ -48,7 +48,7 @@ This triggers PyInstaller (`--windowed --onefile`), packaging all QT bindings, M
 
 
 ## Note
-This app was initially written with a few feature for a submission to interview round , months later updated with the help of LLMs for features like bezier curve and excalidraw compatibility.
+This app was initially written with a few feature for a submission , months later updated with the help of LLMs for features like bezier curve and excalidraw compatibility.
 
 Why Mukta ? 
 I like do like excalidraw and xournal++ but excalidraw lacks they lack the feature of overlay and on-screen draw so Mukta.
